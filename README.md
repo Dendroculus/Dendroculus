@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hey there! 👋
 
-<!--
-**Dendroculus/Dendroculus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Hans Valerie
 
-Here are some ideas to get you started:
+🎉 Currently focused on building multiple Discord bots
+🌱 Exploring Python and expanding my skills through various projects  
+💻 Main skill: Python  
+👯 For now, primarily showcasing my work, but open to collaboration in the future  
+⚡ Interests: Gacha games, swimming, and reading mangas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Socials :  
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30"/>](https://www.linkedin.com/in/hans-valerie/)
+[<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30"/>](mailto:metsuwork@gmail.com)
+[<img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="30"/>](https://www.instagram.com/hansv.va/?igsh=MXh5cjBiczltMTQ1Yw%3D%3D#)
+
+## 🛠️ Tech Stack
+
+Currently working with:
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="80" height="80"/>
