@@ -13,6 +13,8 @@ I'm Hans Valerie
 [<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30"/>](mailto:metsuwork@gmail.com)
 [<img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="30"/>](https://www.instagram.com/hansv.va/?igsh=MXh5cjBiczltMTQ1Yw%3D%3D#)
 
+<img src="Night Retro.png" alt="Night Retro" width="300"/>
+
 ## 🛠️ Tech Stack
 
 Currently working with:
