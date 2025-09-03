@@ -20,3 +20,8 @@ I'm Hans Valerie
 Currently working with:
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="80" height="80"/>
+
+## 🚀 Featured Projects  
+- [Kurumi Bot](https://github.com/Dendroculus) — server management automation (moderation, utilities, tools).  
+- [AniAvatar Bot](https://github.com/Dendroculus/AniAvatar) — content automation (fetching anime info, images, generating PFPs, user EXP system).  
+
