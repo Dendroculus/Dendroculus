@@ -2,7 +2,7 @@
 
 I'm Hans Valerie
 
-🎉 Currently focused on building multiple Discord bots
+🎉 Currently focused on building multiple Discord bots<br>
 🌱 Exploring Python and expanding my skills through various projects  
 💻 Main skill: Python  
 👯 For now, primarily showcasing my work, but open to collaboration in the future  
