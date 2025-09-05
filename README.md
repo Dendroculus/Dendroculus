@@ -4,9 +4,10 @@ I'm Hans Valerie
 
 🎉 Currently focused on building multiple Discord bots<br>
 🌱 Exploring Python and expanding my skills through various projects  
-💻 Main skill: Python  
 👯 For now, primarily showcasing my work, but open to collaboration in the future  
-⚡ Interests: Gacha games, swimming, and reading mangas
+💻 My main skill is Python <br>
+⚡ My interests are gacha games, swimming, and reading mangas. <br>
+🎵 Fun fact: I love listening to Yorushika. <hr>
 
 ## 🌐 Socials :  
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30"/>](https://www.linkedin.com/in/hans-valerie/)
