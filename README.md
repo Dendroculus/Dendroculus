@@ -1,24 +1,14 @@
 ## 👋 I'm Hans Valerie
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code,&size=24&pause=1000&color=5865F2&width=420&lines=Turning+ideas+into+automation;Coding+late,+improving+daily;Always+hungry+to+learn" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code,&size=24&pause=1000&color=5865F2&width=460&lines=Turning+ideas+into+automation;Coding+late,+improving+daily;Always+hungry+to+learn+new+stuff" alt="Typing SVG">
 </p>
 
 ## 🧑‍💻 About Me
-
-<table>
-  <tr>
-    <td style="border: none; padding-right: 20px; vertical-align: top;">
-      🐍 Developing Discord bots while expanding Python, HTML & CSS skills <br>
-      🖥️ Main skill: Python, working knowledge of MySQL <br>
-      🤝 Open to open-source collaboration <br>
-      🎮 I enjoy coding, gaming, swimming, and reading manga <br>
-      🎯 My current goal is to expand my Python, front-end, and development skills through<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;automation and personal projects
-    </td>
-    <td style="border: none; vertical-align: top;">
-      <img src="Night Retro.gif" alt="Night Retro" width="300"/>
-    </td>
-  </tr>
-</table>
+🐍 Developing Discord bots while expanding Python, HTML & CSS skills <br>
+🖥️ Main skill: Python, working knowledge of MySQL  
+🤝 Open to open-source collaboration  
+🎮 I enjoy coding, gaming, swimming, and reading manga <br>
+🎯 My current goal is to expand my Python, front-end, and development skills through automation and personal projects
 
 ## 🛠️ Tech Stack  
 
