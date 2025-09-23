@@ -1,0 +1,15 @@
+name: Warm Readme Stats Cache
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'   
+  workflow_dispatch:         
+
+jobs:
+  warm:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Curl stats endpoint to warm Vercel cache
+        run: |
+          curl -sS "https://github-dendroculus-readme-stats.vercel.app/api?username=Dendroculus&show_icons=true&theme=tokyonight" --fail >/dev/null
+          echo "warmed cache"
