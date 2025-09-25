@@ -38,4 +38,9 @@
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30"/>](https://www.linkedin.com/in/hans-valerie/)
 [<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30"/>](mailto:metsuwork@gmail.com)
 [<img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="30"/>](https://www.instagram.com/hansv.va/?igsh=MXh5cjBiczltMTQ1Yw%3D%3D#)
+[<img src="https://github.com/user-attachments/assets/3eb0ab11-0da8-4559-962e-0b3b07ad4bb3" alt="Telegram" width="30"/>](https://t.me/HansValerie)
+
+
+
+
 
