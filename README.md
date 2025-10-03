@@ -27,17 +27,15 @@
 
 
 <p align="left">
-  <a href="https://github.com/Dendroculus/AniAvatar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dendroculus&repo=AniAvatar&theme=omni&show_owner=true&hide_border=true" /></a>&nbsp;
-  <a href="https://github.com/Dendroculus/kurumi-discord-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dendroculus&repo=kurumi-discord-bot&theme=omni&show_owner=true&hide_border=true" /></a>
+  <a href="https://github.com/Dendroculus/AniAvatar"><img src="https://github-dendroculus-readme-stats.vercel.app/api/pin/?username=Dendroculus&repo=AniAvatar&theme=omni&show_owner=true&hide_border=true" /></a>&nbsp;
+  <a href="https://github.com/Dendroculus/kurumi-discord-bot"><img src="https://github-dendroculus-readme-stats.vercel.app/api/pin/?username=Dendroculus&repo=kurumi-discord-bot&theme=omni&show_owner=true&hide_border=true"/></a>
 </p>
-
-
 
 
 ## 📊 GitHub Stats  
 
 ![Dendroculus's GitHub Stats](https://github-dendroculus-readme-stats.vercel.app/api?username=Dendroculus&show_icons=true&theme=tokyonight&cache_bust=1&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dendroculus&layout=compact&theme=tokyonight&hide_border=true)  
+![Top Langs](https://github-dendroculus-readme-stats.vercel.app/api/top-langs/?username=Dendroculus&layout=compact&theme=tokyonight&hide_border=true)  
 
 
 
