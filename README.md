@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python" />
   <img src="https://img.shields.io/badge/Discord.py-5865F2?logo=discord&logoColor=fff" alt="discord.py" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff" alt="SQLite" />
   <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=fff" alt="HTML" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="Git" />
 </p>
