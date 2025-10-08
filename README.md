@@ -38,7 +38,7 @@
 
 <div align="left">
 
-<img src="https://github-dendroculus-readme-stats.vercel.app/api?username=Dendroculus&include_all_commits=true&show_icons=true&theme=tokyonight&cache_bust=1&hide_border=true" width="420" height="180">&nbsp;<img src="https://github-dendroculus-readme-stats.vercel.app/api/top-langs/?username=Dendroculus&layout=compact&theme=tokyonight&hide_border=true" width="445">
+<img src="https://github-dendroculus-readme-stats.vercel.app/api?username=Dendroculus&include_all_commits=true&show_icons=true&theme=tokyonight&cache_bust=1&hide_border=true" width="400" height="180">&nbsp;<img src="https://github-dendroculus-readme-stats.vercel.app/api/top-langs/?username=Dendroculus&layout=compact&theme=tokyonight&hide_border=true" width="395">
 
 </div>
 
