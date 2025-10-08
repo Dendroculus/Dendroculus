@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff" alt="SQLite" />
   <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=fff" alt="HTML" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="Git" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=fff" alt="Canva" /></p>
 </p>
 
 
