@@ -36,10 +36,9 @@
 ## ✨ Featured Projects  
 
 <p align="left">
-  <a href="https://github.com/Dendroculus/AniAvatar"><img width="375" src="https://github-dendroculus-readme-stats.vercel.app/api/pin/?username=Dendroculus&repo=AniAvatar&theme=omni&show_owner=true&border_color=B947B1&border_radius=20" /></a>
-  <a href="https://github.com/Dendroculus/kurumi-discord-bot"><img width="375" src="https://github-dendroculus-readme-stats.vercel.app/api/pin/?username=Dendroculus&repo=kurumi-discord-bot&theme=omni&show_owner=true&border_color=B947B1&border_radius=20"/></a>
+  <a href="https://github.com/Dendroculus/AniAvatar"><img height="165" src="https://github-dendroculus-readme-stats.vercel.app/api/pin/?username=Dendroculus&repo=AniAvatar&theme=omni&show_owner=true&border_color=B947B1&border_radius=20" /></a>
+  <a href="https://github.com/Dendroculus/kurumi-discord-bot"><img height="165" src="https://github-dendroculus-readme-stats.vercel.app/api/pin/?username=Dendroculus&repo=kurumi-discord-bot&theme=omni&show_owner=true&border_color=B947B1&border_radius=20"/></a>
 </p>
-
 
 ## 📊 GitHub Stats  
 
@@ -50,7 +49,7 @@
   </picture>
   <picture>
     <source media="(max-width: 768px)" srcset="https://github-dendroculus-readme-stats.vercel.app/api/top-langs/?username=Dendroculus&layout=compact&theme=tokyonight&langs_count=8&border_color=0284c7&border_radius=20">
-    <img height="165" src="https://github-dendroculus-readme-stats.vercel.app/api/top-langs/?username=Dendroculus&layout=compact&theme=tokyonight&langs_count=8&border_color=0284c7&border_radius=20">
+    <img height="165" src="https://github-dendroculus-readme-stats.vercel.app/api/top-langs/?username=Dendroculus&layout=compact&theme=tokyonight&langs_count=8&border_color=0284c7&border_radius=20&card_width=350">
   </picture>
 </div>
 
