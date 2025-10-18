@@ -113,7 +113,9 @@
   &nbsp;
   <a href="https://t.me/HansValerie" target="_blank"><img src="https://github.com/user-attachments/assets/3eb0ab11-0da8-4559-962e-0b3b07ad4bb3" alt="Telegram" width="38" height="38"/></a>
   &nbsp;
-  <a href="https://leetcode.com/u/Dendroculus/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="38" height="38"/></a>
+  <a href="https://discord.com/users/955268891125375036"><img src="https://skillicons.dev/icons?i=discord" alt="Discord.py" width="38" height="38"/></a>
+  &nbsp;
+  <a href="https://leetcode.com/u/Dendroculus/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/leetcode-dark.svg" alt="LeetCode" width="38" height="38"/></a>
 </p>
 
 </div>
