@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/English-02A9EA.svg?logo=flag&logoColor=white" alt="Switch to English">
+  <picture><img src="https://custom-icon-badges.demolab.com/badge/English-02A9EA.svg?logo=flag&logoColor=white" alt="Switch to English"></picture>
   <a href="docs/readmeCN.md"><img src="https://custom-icon-badges.demolab.com/badge/中文-AF1B3F.svg?logo=language&logoColor=white" alt="切换到中文"></a>
 </p>
 

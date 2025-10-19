@@ -1,6 +1,6 @@
 <p align="center">
   <a href="/README.md"><img src="https://custom-icon-badges.demolab.com/badge/English-02A9EA.svg?logo=flag&logoColor=white" alt="Switch to English"></a>
-  <img src="https://custom-icon-badges.demolab.com/badge/中文-AF1B3F.svg?logo=language&logoColor=white" alt="切换到中文">
+  <picture><img src="https://custom-icon-badges.demolab.com/badge/中文-AF1B3F.svg?logo=language&logoColor=white" alt="切换到中文"></picture>
 </p>
 
 <div align="center">
