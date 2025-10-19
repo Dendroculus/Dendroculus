@@ -1,15 +1,16 @@
 <p align="center">
   <a href="/README.md"><img src="https://custom-icon-badges.demolab.com/badge/English-02A9EA.svg?logo=flag&logoColor=white" alt="Switch to English"></a>
-  <a href="docs/readmeCN.md"><img src="https://custom-icon-badges.demolab.com/badge/中文-AF1B3F.svg?logo=language&logoColor=white" alt="切换到中文"></a>
+  <img src="https://custom-icon-badges.demolab.com/badge/中文-AF1B3F.svg?logo=language&logoColor=white" alt="切换到中文">
 </p>
 
 <div align="center">
 
 # 👋 你好，我是 Hans Valerie
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code,&size=24&pause=1000&color=5865F2&width=460&lines=将想法转化为自动化;深夜编码，每日精进;永远渴望学习新事物" alt="Typing SVG">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Microsoft+YaHei&size=24&pause=1000&color=5865F2&center=true&width=460&lines=%E5%B0%86%E6%83%B3%E6%B3%95%E8%BD%AC%E5%8C%96%E4%B8%BA%E8%87%AA%E5%8A%A8%E5%8C%96;%E6%B7%B1%E5%A4%9C%E7%BC%96%E7%A8%8B%EF%BC%8C%E6%AF%8F%E6%97%A5%E7%B2%BE%E8%BF%9B;%E6%B0%B8%E8%BF%9C%E6%B8%B4%E6%9C%9B%E5%AD%A6%E4%B9%A0%E6%96%B0%E4%BA%8B%E7%89%A9&v=4" alt="Typing SVG">
 </p>
+
 
 <picture>
 <img src="https://github-profile-trophy.vercel.app/?username=Dendroculus&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub 奖杯" />
@@ -18,7 +19,7 @@
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -36,7 +37,7 @@
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -59,7 +60,7 @@
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -72,7 +73,7 @@
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -103,7 +104,7 @@
 </p>
 </div>
 
----
+
 
 <div align="center">
 
