@@ -1,7 +1,8 @@
 <p align="center">
-  <picture><img src="https://custom-icon-badges.demolab.com/badge/English-02A9EA.svg?logo=flag&logoColor=white" alt="Switch to English"></picture>
-  <a href="docs/readmeCN.md"><img src="https://custom-icon-badges.demolab.com/badge/中文-AF1B3F.svg?logo=language&logoColor=white" alt="切换到中文"></a>
+ <img src="assets/badges/English.svg" alt="Switch to English"/>
+  <a href="docs/readmeCN.md"><img src="assets/badges/Chinese.svg" alt="切换到中文"/></a>
 </p>
+
 
 <div align="center">
 
@@ -68,13 +69,11 @@
 ## ✨ Featured Projects
 
 <p>
-  <a href="https://github.com/Dendroculus/AniAvatar"><img height="165" width="386"  src="https://github-readme-stats.vercel.app/api/pin/?username=Dendroculus&repo=AniAvatar&theme=omni&show_owner=true&border_color=B947B1&border_radius=20" /></a>
-  <a href="https://github.com/Dendroculus/kurumi-discord-bot"><img height="165" width="386" src="https://github-readme-stats.vercel.app/api/pin/?username=Dendroculus&repo=kurumi-discord-bot&theme=omni&show_owner=true&border_color=B947B1&border_radius=20"/></a>
+  <a href="https://github.com/Dendroculus/AniAvatar"><img height="165" width="386"  src="https://github-dendroculus-readme-stats.vercel.app/api/pin/?username=Dendroculus&repo=AniAvatar&theme=omni&show_owner=true&border_color=B947B1&border_radius=20" onerror="this.onerror=null; this.src='https://github-readme-stats.vercel.app/api/pin/?username=Dendroculus&repo=AniAvatar&theme=omni&show_owner=true&border_color=B947B1&border_radius=20';"/></a>
+  <a href="https://github.com/Dendroculus/kurumi-discord-bot"><img height="165" width="386" src="https://github-dendroculus-readme-stats.vercel.app/api/pin/?username=Dendroculus&repo=kurumi-discord-bot&theme=omni&show_owner=true&border_color=B947B1&border_radius=20" onerror="this.onerror=null; this.src='https://github-readme-stats.vercel.app/api/pin/?username=Dendroculus&repo=kurumi-discord-bot&theme=omni&show_owner=true&border_color=B947B1&border_radius=20';"/></a>
 </p>
 
 </div>
-
-
 
 <div align="center">
 
@@ -82,12 +81,12 @@
 
 <p>
   <picture>
-    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api?username=Dendroculus&include_all_commits=true&show_icons=true&theme=tokyonight&border_color=0284c7&border_radius=20">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dendroculus&include_all_commits=true&show_icons=true&theme=tokyonight&border_color=0284c7&border_radius=25">
+    <source media="(max-width: 768px)" srcset="https://github-dendroculus-readme-stats.vercel.app/api?username=Dendroculus&include_all_commits=true&show_icons=true&theme=tokyonight&border_color=0284c7&border_radius=20">
+    <img height="165" src="https://github-dendroculus-readme-stats.vercel.app/api?username=Dendroculus&include_all_commits=true&show_icons=true&theme=tokyonight&border_color=0284c7&border_radius=25" onerror="this.onerror=null; this.src='https://github-readme-stats.vercel.app/api?username=Dendroculus&include_all_commits=true&show_icons=true&theme=tokyonight&border_color=0284c7&border_radius=25';"/>
   </picture>
   <picture>
-    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dendroculus&layout=compact&theme=tokyonight&langs_count=4&border_color=0284c7&border_radius=20">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dendroculus&layout=compact&theme=tokyonight&langs_count=8&border_color=0284c7&border_radius=20&card_width=320">
+    <source media="(max-width: 768px)" srcset="https://github-dendroculus-readme-stats.vercel.app/api/top-langs/?username=Dendroculus&layout=compact&theme=tokyonight&langs_count=4&border_color=0284c7&border_radius=20">
+    <img height="165" src="https://github-dendroculus-readme-stats.vercel.app/api/top-langs/?username=Dendroculus&layout=compact&theme=tokyonight&langs_count=8&border_color=0284c7&border_radius=20&card_width=320" onerror="this.onerror=null; this.src='https://github-readme-stats.vercel.app/api/top-langs/?username=Dendroculus&layout=compact&theme=tokyonight&langs_count=8&border_color=0284c7&border_radius=20&card_width=320';"/>
   </picture>
   <picture>
     <img
@@ -100,7 +99,7 @@
       alt="GitHub Streak Stats"
       height="165"
     />
-  </picture>
+  </Picture>
 </p>
 
 </div>
