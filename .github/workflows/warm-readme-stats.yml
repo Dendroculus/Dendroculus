@@ -11,5 +11,7 @@ jobs:
     steps:
       - name: Curl stats endpoint to warm Vercel cache
         run: |
-          curl -sS "https://github-dendroculus-readme-stats.vercel.app/api?username=Dendroculus&show_icons=true&theme=tokyonight" --fail >/dev/null
+          curl -sS "https://github-readme-stats.vercel.app/api?username=Dendroculus&show_icons=true&theme=tokyonight" --fail >/dev/null
+          curl -sS "https://github-readme-stats.vercel.app/api/top-langs/?username=Dendroculus&layout=compact&theme=tokyonight" --fail >/dev/null
+          curl -sS "https://github-readme-streak-stats-salesp07.vercel.app/?user=Dendroculus&theme=tokyonight" --fail >/dev/null
           echo "warmed cache"
