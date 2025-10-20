@@ -68,8 +68,8 @@
 ## ✨ Featured Projects
 
 <p>
-  <a href="https://github.com/Dendroculus/AniAvatar"><img height="165" width="386"  src="https://github-dendroculus-readme-stats.vercel.app/api/pin/?username=Dendroculus&repo=AniAvatar&theme=omni&show_owner=true&border_color=B947B1&border_radius=20" /></a>
-  <a href="https://github.com/Dendroculus/kurumi-discord-bot"><img height="165" width="386" src="https://github-dendroculus-readme-stats.vercel.app/api/pin/?username=Dendroculus&repo=kurumi-discord-bot&theme=omni&show_owner=true&border_color=B947B1&border_radius=20"/></a>
+  <a href="https://github.com/Dendroculus/AniAvatar"><img height="165" width="386"  src="https://github-readme-stats.vercel.app/api/pin/?username=Dendroculus&repo=AniAvatar&theme=omni&show_owner=true&border_color=B947B1&border_radius=20" /></a>
+  <a href="https://github.com/Dendroculus/kurumi-discord-bot"><img height="165" width="386" src="https://github-readme-stats.vercel.app/api/pin/?username=Dendroculus&repo=kurumi-discord-bot&theme=omni&show_owner=true&border_color=B947B1&border_radius=20"/></a>
 </p>
 
 </div>
@@ -82,27 +82,27 @@
 
 <p>
   <picture>
-    <source media="(max-width: 768px)" srcset="https://github-dendroculus-readme-stats.vercel.app/api?username=Dendroculus&include_all_commits=true&show_icons=true&theme=tokyonight&cache_bust=1&border_color=0284c7&border_radius=20">
-    <img height="165" src="https://github-dendroculus-readme-stats.vercel.app/api?username=Dendroculus&include_all_commits=true&show_icons=true&theme=tokyonight&cache_bust=1&border_color=0284c7&border_radius=25">
+    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api?username=Dendroculus&include_all_commits=true&show_icons=true&theme=tokyonight&border_color=0284c7&border_radius=20">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dendroculus&include_all_commits=true&show_icons=true&theme=tokyonight&border_color=0284c7&border_radius=25">
   </picture>
   <picture>
-    <source media="(max-width: 768px)" srcset="https://github-dendroculus-readme-stats.vercel.app/api/top-langs/?username=Dendroculus&layout=compact&theme=tokyonight&langs_count=4&border_color=0284c7&border_radius=20">
-    <img height="165" src="https://github-dendroculus-readme-stats.vercel.app/api/top-langs/?username=Dendroculus&layout=compact&theme=tokyonight&langs_count=8&border_color=0284c7&border_radius=20&card_width=320">
+    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dendroculus&layout=compact&theme=tokyonight&langs_count=4&border_color=0284c7&border_radius=20">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dendroculus&layout=compact&theme=tokyonight&langs_count=8&border_color=0284c7&border_radius=20&card_width=320">
   </picture>
   <picture>
-  <img
-    src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Dendroculus&theme=tokyonight&background=161b22&ring=60a5fa&fire=7dd3fc&currStreakLabel=60a5fa&sideNums=38bdf8&sideLabels=60a5fa&dates=94a3b8&border=3b82f6&stroke=0ea5e9&border_radius=20"
-    onerror="this.onerror=null;
-             this.src='https://nirzak-streak-stats.vercel.app/?user=Dendroculus&theme=tokyonight&background=161b22&ring=60a5fa&fire=7dd3fc&border=3b82f6&border_radius=20';
-             this.onerror=function(){
-               this.src='https://streak-stats.demolab.com/?user=Dendroculus&theme=tokyonight&background=161b22&border_radius=20';
-             };"
-    alt="GitHub Streak Stats"
-    height="165"
-  />
+    <img
+      src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Dendroculus&theme=tokyonight&background=161b22&ring=60a5fa&fire=7dd3fc&currStreakLabel=60a5fa&sideNums=38bdf8&sideLabels=60a5fa&dates=94a3b8&border=3b82f6&stroke=0ea5e9&border_radius=20"
+      onerror="this.onerror=null;
+               this.src='https://nirzak-streak-stats.vercel.app/?user=Dendroculus&theme=tokyonight&background=161b22&ring=60a5fa&fire=7dd3fc&border=3b82f6&border_radius=20';
+               this.onerror=function(){
+                 this.src='https://streak-stats.demolab.com/?user=Dendroculus&theme=tokyonight&background=161b22&border_radius=20';
+               };"
+      alt="GitHub Streak Stats"
+      height="165"
+    />
   </picture>
-
 </p>
+
 </div>
 
 <div align="center">
