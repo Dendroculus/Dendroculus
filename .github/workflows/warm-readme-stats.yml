@@ -32,20 +32,20 @@ jobs:
           curl -sS "https://github-readme-stats.vercel.app/api/pin/?username=Dendroculus&repo=kurumi-discord-bot&theme=omni&show_owner=true&border_color=B947B1&border_radius=20" --fail >/dev/null
 
           # GitHub Stats 
-          curl -sS "https://github-dendroculus-readme-stats.vercel.app/api?username=Dendroculus&include_all_commits=true&show_icons=true&theme=tokyonight&border_color=0284c7&border_radius=20" --fail >/dev/null
-          curl -sS "https://github-dendroculus-readme-stats.vercel.app/api?username=Dendroculus&include_all_commits=true&show_icons=true&theme=tokyonight&border_color=0284c7&border_radius=25" --fail >/dev/null
-          curl -sS "https://github-readme-stats.vercel.app/api?username=Dendroculus&include_all_commits=true&show_icons=true&theme=tokyonight&border_color=0284c7&border_radius=20" --fail >/dev/null
-          curl -sS "https://github-readme-stats.vercel.app/api?username=Dendroculus&include_all_commits=true&show_icons=true&theme=tokyonight&border_color=0284c7&border_radius=25" --fail >/dev/null
+          curl -sS "https://github-dendroculus-readme-stats.vercel.app/api?username=Dendroculus&include_all_commits=true&show_icons=true&theme=tokyonight&border_color=0284c7&border_radius=20&locale=en" --fail >/dev/null
+          curl -sS "https://github-dendroculus-readme-stats.vercel.app/api?username=Dendroculus&include_all_commits=true&show_icons=true&theme=tokyonight&border_color=0284c7&border_radius=25&locale=en" --fail >/dev/null
+          curl -sS "https://github-readme-stats.vercel.app/api?username=Dendroculus&include_all_commits=true&show_icons=true&theme=tokyonight&border_color=0284c7&border_radius=20&locale=en" --fail >/dev/null
+          curl -sS "https://github-readme-stats.vercel.app/api?username=Dendroculus&include_all_commits=true&show_icons=true&theme=tokyonight&border_color=0284c7&border_radius=25&locale=en" --fail >/dev/null
           
           # Top Langs 
-          curl -sS "https://github-dendroculus-readme-stats.vercel.app/api/top-langs/?username=Dendroculus&layout=compact&theme=tokyonight&langs_count=4&border_color=0284c7&border_radius=20" --fail >/dev/null
-          curl -sS "https://github-dendroculus-readme-stats.vercel.app/api/top-langs/?username=Dendroculus&layout=compact&theme=tokyonight&langs_count=8&border_color=0284c7&border_radius=20&card_width=320" --fail >/dev/null
-          curl -sS "https://github-readme-stats.vercel.app/api/top-langs/?username=Dendroculus&layout=compact&theme=tokyonight&langs_count=4&border_color=0284c7&border_radius=20" --fail >/dev/null
-          curl -sS "https://github-readme-stats.vercel.app/api/top-langs/?username=Dendroculus&layout=compact&theme=tokyonight&langs_count=8&border_color=0284c7&border_radius=20&card_width=320" --fail >/dev/null
+          curl -sS "https://github-dendroculus-readme-stats.vercel.app/api/top-langs/?username=Dendroculus&layout=compact&theme=tokyonight&langs_count=4&border_color=0284c7&border_radius=20&locale=en" --fail >/dev/null
+          curl -sS "https://github-dendroculus-readme-stats.vercel.app/api/top-langs/?username=Dendroculus&layout=compact&theme=tokyonight&langs_count=8&border_color=0284c7&border_radius=20&card_width=320&locale=en" --fail >/dev/null
+          curl -sS "https://github-readme-stats.vercel.app/api/top-langs/?username=Dendroculus&layout=compact&theme=tokyonight&langs_count=4&border_color=0284c7&border_radius=20&locale=en" --fail >/dev/null
+          curl -sS "https://github-readme-stats.vercel.app/api/top-langs/?username=Dendroculus&layout=compact&theme=tokyonight&langs_count=8&border_color=0284c7&border_radius=20&card_width=320&locale=en" --fail >/dev/null
           
-          # Streak Stats
-          curl -sS "https://github-readme-streak-stats-salesp07.vercel.app/?user=Dendroculus&theme=tokyonight&background=161b22&ring=60a5fa&fire=7dd3fc&currStreakLabel=60a5fa&sideNums=38bdf8&sideLabels=60a5fa&dates=94a3b8&border=3b82f6&stroke=0ea5e9&border_radius=20" --fail >/dev/null
-          curl -sS "https://nirzak-streak-stats.vercel.app/?user=Dendroculus&theme=tokyonight&background=161b22&ring=60a5fa&fire=7dd3fc&border=3b82f6&border_radius=20" --fail >/dev/null
-          curl -sS "https://streak-stats.demolab.com/?user=Dendroculus&theme=tokyonight&background=161b22&border_radius=20" --fail >/dev/null
+          # Streak Stats 
+          curl -sS "https://github-readme-streak-stats-salesp07.vercel.app/?user=Dendroculus&theme=tokyonight&background=161b22&ring=60a5fa&fire=7dd3fc&currStreakLabel=60a5fa&sideNums=38bdf8&sideLabels=60a5fa&dates=94a3b8&border=3b82f6&stroke=0ea5e9&border_radius=20&locale=en" --fail >/dev/null
+          curl -sS "https://nirzak-streak-stats.vercel.app/?user=Dendroculus&theme=tokyonight&background=161b22&ring=60a5fa&fire=7dd3fc&border=3b82f6&border_radius=20&locale=en" --fail >/dev/null
+          curl -sS "https://streak-stats.demolab.com/?user=Dendroculus&theme=tokyonight&background=161b22&border_radius=20&locale=en" --fail >/dev/null
           
           echo "warmed all caches"
