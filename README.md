@@ -15,7 +15,7 @@
 </p>
 
 <picture>
-<img src="https://github-profile-trophy.vercel.app/?username=Dendroculus&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+<img src="https://nirzak-trophies.vercel.app/?username=Dendroculus&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dendroculus&theme=tokyo-night&bg_color=0d1117&color=e2e8f0&line=0ea5e9&point=38bdf8&area=true&hide_border=true&hide_title=true&hide_legend=true" />
 </picture>
 
