@@ -48,7 +48,7 @@
   <picture>
   <img src="https://skillicons.dev/icons?i=python" alt="Python" />
   <img src="https://skillicons.dev/icons?i=discord" alt="Discord.py" />
-  <img src="./assets/pandas_logo.png" width="48" height="48" alt="Pandas" style="border-radius: 10px;" />
+  <img src="https://github.com/Dendroculus/Dendroculus/blob/main/assets/pandas_logo.png" width="48" height="48" alt="Pandas" style="border-radius: 10px;" />
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
   <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
