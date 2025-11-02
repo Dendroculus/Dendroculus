@@ -9,8 +9,9 @@
 # 👋 你好，我是 Hans Valerie
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Microsoft+YaHei&size=24&pause=1000&color=5865F2&center=true&width=460&lines=%E5%B0%86%E6%83%B3%E6%B3%95%E8%BD%AC%E5%8C%96%E4%B8%BA%E8%87%AA%E5%8A%A8%E5%8C%96;%E6%B7%B1%E5%A4%9C%E7%BC%96%E7%A8%8B%EF%BC%8C%E6%AF%8F%E6%97%A5%E7%B2%BE%E8%BF%9B;%E6%B0%B8%E8%BF%9C%E6%B8%B4%E6%9C%9B%E5%AD%A6%E4%B9%A0%E6%96%B0%E4%BA%8B%E7%89%A9&v=4" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Microsoft+YaHei&size=24&pause=1000&color=5865F2&center=true&width=460&lines=%E5%B0%86%E6%83%B3%E6%B3%95%E8%BD%AC%E5%8C%96%E4%B8%BA%E8%87%AA%E5%8A%A8%E5%8C%96;%E8%B0%83%E8%AF%95%E5%A6%82%E7%96%97%E6%84%88;%E5%A4%84%E4%BA%8E%E6%97%A0%E5%B0%BD%E7%9A%84%E6%B1%82%E7%9F%A5%E4%B9%8B%E8%B7%AF&v=4" alt="Typing SVG">
 </p>
+
 
 
 <picture>
