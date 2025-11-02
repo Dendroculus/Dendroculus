@@ -10,7 +10,7 @@
 
 <p>
   <picture>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code,&size=24&pause=1000&color=5865F2&width=460&lines=Turning+ideas+into+automation;Coding+late,+improving+daily;Always+hungry+to+learn+new+stuff" alt="Typing SVG">
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code,&size=24&pause=1000&color=5865F2&width=460&lines=Turning+ideas+into+automation;Debugging+feels+like+therapy;In+an+endless+pursuit+of+wisdom" alt="Typing SVG">
   </picture>
 </p>
 
