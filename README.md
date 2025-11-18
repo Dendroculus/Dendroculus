@@ -85,8 +85,8 @@
     <img height="165" src="https://github-dendroculus-readme-stats.vercel.app/api?username=Dendroculus&include_all_commits=true&show_icons=true&theme=tokyonight&border_color=0284c7&border_radius=25&locale=en" onerror="this.onerror=null; this.src='https://github-readme-stats.vercel.app/api?username=Dendroculus&include_all_commits=true&show_icons=true&theme=tokyonight&border_color=0284c7&border_radius=25&locale=en';"/>
   </picture>
   <picture>
-    <source media="(max-width: 768px)" srcset="https://github-dendroculus-readme-stats.vercel.app/api/top-langs/?username=Dendroculus&layout=compact&theme=tokyonight&langs_count=4&border_color=0284c7&border_radius=20&locale=en">
-    <img height="165" src="https://github-dendroculus-readme-stats.vercel.app/api/top-langs/?username=Dendroculus&layout=compact&theme=tokyonight&langs_count=8&border_color=0284c7&border_radius=20&card_width=320&locale=en" onerror="this.onerror=null; this.src='https://github-readme-stats.vercel.app/api/top-langs/?username=Dendroculus&layout=compact&theme=tokyonight&langs_count=8&border_color=0284c7&border_radius=20&card_width=320&locale=en';"/>
+    <source media="(max-width: 768px)" srcset="https://github-dendroculus-readme-stats.vercel.app/api/top-langs/?username=Dendroculus&layout=compact&theme=tokyonight&langs_count=6&border_color=0284c7&border_radius=20&locale=en">
+    <img height="165" src="https://github-dendroculus-readme-stats.vercel.app/api/top-langs/?username=Dendroculus&layout=compact&theme=tokyonight&langs_count=6&border_color=0284c7&border_radius=20&card_width=320&locale=en" onerror="this.onerror=null; this.src='https://github-readme-stats.vercel.app/api/top-langs/?username=Dendroculus&layout=compact&theme=tokyonight&langs_count=6&border_color=0284c7&border_radius=20&card_width=320&locale=en';"/>
   </picture>
   <picture>
     <img
