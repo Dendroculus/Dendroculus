@@ -54,6 +54,7 @@
   <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
   <img src="https://skillicons.dev/icons?i=git" alt="Git" />
   <img src="https://github.com/Dendroculus/Dendroculus/blob/main/assets/Canva_Logo.png?raw=true" width="48" height="48" alt="Canva" />
   </picture>
