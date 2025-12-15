@@ -28,7 +28,9 @@
 ## 🔭 关于我
 
 <div style="display: inline-block; text-align: center;">
-<picture><img src="https://komarev.com/ghpvc/?username=Dendroculus&color=ff69b4&style=round&abbreviated=true" /> </picture>
+<picture><img src="https://komarev.com/ghpvc/?username=Dendroculus&color=ff69b4&style=round&abbreviated=true" /></picture>
+<picture><img src="https://wakatime.com/badge/user/23f3d64a-9d3a-46c1-b3d4-7fce4abee794.svg?style=flat&color=ff69b4"></picture>
+
 <br>
 🐍 开发 Discord 机器人，同时拓展 Python、HTML 和 CSS 技能。<br>
 🖥️ 主要技能：Python，并具备 MySQL 和 SQLite 的实践经验。<br>
