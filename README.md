@@ -54,6 +54,7 @@
   <img src="https://github.com/Dendroculus/Dendroculus/blob/main/assets/pandas_logo.png" width="48" height="48" alt="Pandas" style="border-radius: 10px;" />
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
   <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostGreSQL" />
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
   <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
