@@ -32,11 +32,11 @@
 <picture><img src="https://wakatime.com/badge/user/23f3d64a-9d3a-46c1-b3d4-7fce4abee794.svg?style=flat&color=ff69b4"></picture>
 
 <br>
-🐍 开发 Discord 机器人，同时拓展 Python、HTML 和 CSS 技能。<br>
-🖥️ 主要技能：Python，并具备 MySQL 和 SQLite 的实践经验。<br>
-🤝 对有意义的开源项目协作持开放态度。<br>
-🎮 我热衷于技术、游戏、游泳和阅读漫画。<br>
-🎯 通过个人项目不断学习和提升。
+🐍 专注于开发 Discord 机器人，探索自动化的无限创意。<br>
+🖥 精通 Python，并拥有 SQL 数据库的实战经验。<br>
+🤝 热衷于打造稳定可靠的开源实用工具。<br>
+🎮 科技、游戏、漫画和游泳是我的动力源泉。<br>
+🎯 通过不断动手实践来打磨技术，精进技艺。
 </div>
 
 </div>

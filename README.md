@@ -33,10 +33,10 @@
 
 <br>
 🐍 Building Discord bots and exploring the creative side of automation. <br>
-🖥 Proficient in Python, with hands-on experience in MySQL and SQLite. <br>
-🤝 Always open to collaborating on meaningful open-source projects. <br>
-🎮 I'm passionate about technology, gaming, swimming, and manga. <br>
-🎯 Continuously learning and improving through personal projects.
+🖥 Proficient in Python, with hands-on experience SQL Databases. <br>
+🤝 Passionate about creating reliable open source utilities. <br>
+🎮 Fueled by technology, gaming, manga, and laps in the pool. <br>
+🎯 Constantly refining my craft through hands on experimentation.
 </div>
 
 </div>
