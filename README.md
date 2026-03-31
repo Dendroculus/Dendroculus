@@ -92,16 +92,11 @@
     <img height="165" src="https://github-dendroculus-readme-stats.vercel.app/api/top-langs/?username=Dendroculus&layout=compact&theme=tokyonight&langs_count=6&border_color=0284c7&border_radius=20&card_width=320&locale=en" onerror="this.onerror=null; this.src='https://github-readme-stats.vercel.app/api/top-langs/?username=Dendroculus&layout=compact&theme=tokyonight&langs_count=6&border_color=0284c7&border_radius=20&card_width=320&locale=en';"/>
   </picture>
   <picture>
-    <img
-      src="https://nirzak-streak-stats.vercel.app/?user=Dendroculus&theme=tokyonight&background=161b22&ring=60a5fa&fire=7dd3fc&border=3b82f6&border_radius=20&locale=en&cache_seconds=3600"
-      onerror="this.onerror=null;
-               this.src='https://github-readme-streak-stats-salesp07.vercel.app/?user=Dendroculus&theme=tokyonight&background=161b22&ring=60a5fa&fire=7dd3fc&currStreakLabel=60a5fa&sideNums=38bdf8&sideLabels=60a5fa&dates=94a3b8&border=3b82f6&stroke=0ea5e9&border_radius=20&locale=en';
-               this.onerror=function(){
-                 this.src='https.streak-stats.demolab.com/?user=Dendroculus&theme=tokyonight&background=161b22&border_radius=20&locale=en';
-               };"
-      alt="GitHub Streak Stats"
-      height="165"
-    />
+   <img
+  src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Dendroculus&theme=tokyonight&background=161b22&ring=60a5fa&fire=7dd3fc&currStreakLabel=60a5fa&sideNums=38bdf8&sideLabels=60a5fa&dates=94a3b8&border=3b82f6&stroke=0ea5e9&border_radius=20&locale=en"
+  alt="GitHub Streak Stats"
+  height="165"
+/>
   </Picture>
 </p>
 
