@@ -71,10 +71,7 @@
 
 ## ✨ Featured Projects
 
-<p>
-  <a href="https://github.com/Dendroculus/AniAvatar"><img height="165" width="386"  src="https://github-dendroculus-readme-stats.vercel.app/api/pin/?username=Dendroculus&repo=AniAvatar&theme=omni&show_owner=true&border_color=B947B1&border_radius=20" onerror="this.onerror=null; this.src='https://github-readme-stats.vercel.app/api/pin/?username=Dendroculus&repo=AniAvatar&theme=omni&show_owner=true&border_color=B947B1&border_radius=20';"/></a>
-  <a href="https://github.com/Dendroculus/kurumi-discord-bot"><img height="165" width="386" src="https://github-dendroculus-readme-stats.vercel.app/api/pin/?username=Dendroculus&repo=kurumi-discord-bot&theme=omni&show_owner=true&border_color=B947B1&border_radius=20" onerror="this.onerror=null; this.src='https://github-readme-stats.vercel.app/api/pin/?username=Dendroculus&repo=kurumi-discord-bot&theme=omni&show_owner=true&border_color=B947B1&border_radius=20';"/></a>
-</p>
+[![AniAvatar](https://github-dendroculus-readme-stats.vercel.app/api/pin/?username=Dendroculus&repo=AniAvatar&theme=omni&show_owner=true&border_color=B947B1&border_radius=20)](https://github.com/Dendroculus/AniAvatar) [![kurumi-discord-bot](https://github-dendroculus-readme-stats.vercel.app/api/pin/?username=Dendroculus&repo=kurumi-discord-bot&theme=omni&show_owner=true&border_color=B947B1&border_radius=20)](https://github.com/Dendroculus/kurumi-discord-bot)
 
 </div>
 
@@ -106,18 +103,25 @@
 
 ## 🌐 My Socials
 
-<p>
-  <a href="https://www.linkedin.com/in/hans-valerie/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="38" height="38"/></a>
-  &nbsp;
-  <a href="mailto:metsuwork@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="38" height="38/"/></a>
-  &nbsp;
-  <a href="https://www.instagram.com/hansv.va/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="38" height="38"/></a>
-  &nbsp;
-  <a href="https://t.me/HansValerie" target="_blank"><img src="https://github.com/user-attachments/assets/3eb0ab11-0da8-4559-962e-0b3b07ad4bb3" alt="Telegram" width="38" height="38"/></a>
-  &nbsp;
-  <a href="https://discord.com/users/955268891125375036"><img src="https://skillicons.dev/icons?i=discord" alt="Discord.py" width="38" height="38"/></a>
-  &nbsp;
-  <a href="https://leetcode.com/u/Dendroculus/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/leetcode-dark.svg" alt="LeetCode" width="38" height="38"/></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/hans-valerie/">
+    <img src="./assets/socials/linkedin.svg" width="38"/>
+  </a>
+  <a href="mailto:metsuwork@gmail.com">
+    <img src="./assets/socials/gmail.png" width="38"/>
+  </a>
+  <a href="https://www.instagram.com/hansv.va/">
+    <img src="./assets/socials/instagram.png" width="38"/>
+  </a>
+  <a href="https://t.me/HansValerie">
+    <img src="./assets/socials/telegram.png" width="38"/>
+  </a>
+  <a href="https://discord.com/users/955268891125375036">
+    <img src="./assets/socials/discord.svg" width="38"/>
+  </a>
+  <a href="https://leetcode.com/u/Dendroculus/">
+    <img src="./assets/socials/leetcode.svg" width="34" height="34"/>
+  </a>
 </p>
 
 </div>
