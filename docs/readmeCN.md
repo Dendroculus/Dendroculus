@@ -32,11 +32,10 @@
 <picture><img src="https://wakatime.com/badge/user/23f3d64a-9d3a-46c1-b3d4-7fce4abee794.svg?style=flat&color=ff69b4"></picture>
 
 <br>
-🐍 专注于开发 Discord 机器人，探索自动化的无限创意。<br>
-🖥 精通 Python，并拥有 SQL 数据库的实战经验。<br>
-🤝 热衷于打造稳定可靠的开源实用工具。<br>
-🎮 科技、游戏、漫画和游泳是我的动力源泉。<br>
-🎯 通过不断动手实践来打磨技术，精进技艺。
+💻 专注于使用 Python、FastAPI、React 和 JavaScript 构建全栈与 AI 驱动应用。<br>
+⚙️ 热衷于后端系统设计、异步架构与系统工程实现。<br>
+🧠 正在开发 PixelForge —— 一款 AI 图像处理 Web 应用。<br>
+🚀 通过项目实践、持续探索与真实问题解决不断提升技术能力。<br>
 </div>
 
 </div>
@@ -47,21 +46,27 @@
 
 ## 🛠️ 技术栈
 
-<p>
-  <picture>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=discord" alt="Discord.py" />
-  <img src="https://github.com/Dendroculus/Dendroculus/blob/main/assets/pandas_logo.png" width="48" height="48" alt="Pandas" style="border-radius: 10px;" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostGreSQL" />
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
-  <img src="https://github.com/Dendroculus/Dendroculus/blob/main/assets/Canva_Logo.png?raw=true" width="48" height="48" alt="Canva" />
-  </picture>
-</p>
+<div style="display: flex; flex-direction: column; gap: 2px;">
+  <div align="center">
+    <b>编程语言</b><br/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,javascript,pandas" />
+  </div>
+
+  <div align="center">
+    <b>前端</b><br/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=react,vite,tailwind" />
+  </div>
+
+  <div align="center">
+    <b>后端 & 数据库</b><br/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,postgres,mysql,sqlite" />
+  </div>
+
+  <div align="center">
+    <b>工具 & 云服务</b><br/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,azure,cloudflare" />
+  </div>
+</div>
 
 </div>
 

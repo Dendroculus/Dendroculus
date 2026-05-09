@@ -32,11 +32,11 @@
 <picture><img src="https://wakatime.com/badge/user/23f3d64a-9d3a-46c1-b3d4-7fce4abee794.svg?style=flat&color=ff69b4"></picture>
 
 <br>
-🐍 Building Discord bots and exploring the creative side of automation. <br>
-🖥 Proficient in Python, with hands-on experience SQL Databases. <br>
-🤝 Passionate about creating reliable open source utilities. <br>
-🎮 Fueled by technology, gaming, manga, and laps in the pool. <br>
-🎯 Constantly refining my craft through hands on experimentation.
+💻 Building full-stack and AI-powered applications with Python, FastAPI, React, and JavaScript. <br>
+⚙️ Interested in backend systems, async workflows, and system design. <br>
+🧠 Currently developing PixelForge, an AI image processing web application. <br>
+🚀 Learning through hands-on projects, experimentation, and real-world problem solving.
+
 </div>
 
 </div>
@@ -47,25 +47,29 @@
 
 ## 🛠 Tech Stack
 
-<p>
-  <picture>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=discord" alt="Discord.py" />
-  <img src="https://github.com/Dendroculus/Dendroculus/blob/main/assets/pandas_logo.png" width="48" height="48" alt="Pandas" style="border-radius: 10px;" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostGreSQL" />
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
-  <img src="https://github.com/Dendroculus/Dendroculus/blob/main/assets/Canva_Logo.png?raw=true" width="48" height="48" alt="Canva" />
-  </picture>
-</p>
+<div style="display: flex; flex-direction: column; gap: 2px;">
+  <div align="center">
+    <b>Languages</b><br/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,javascript,pandas" />
+  </div>
 
+  <div align="center">
+    <b>Frontend</b><br/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=react,vite,tailwind" />
+  </div>
+
+  <div align="center">
+    <b>Backend & Database</b><br/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,postgres,mysql,sqlite" />
+  </div>
+
+  <div align="center">
+    <b>Tools & Cloud</b><br/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,azure,cloudflare" />
+  </div>
 </div>
 
-
+</div>
 
 <div align="center">
 
