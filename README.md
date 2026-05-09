@@ -75,7 +75,7 @@
 
 ## ✨ Featured Projects
 
-[![AniAvatar](https://github-dendroculus-readme-stats.vercel.app/api/pin/?username=Dendroculus&repo=AniAvatar&theme=omni&show_owner=true&border_color=B947B1&border_radius=20)](https://github.com/Dendroculus/AniAvatar) [![kurumi-discord-bot](https://github-dendroculus-readme-stats.vercel.app/api/pin/?username=Dendroculus&repo=kurumi-discord-bot&theme=omni&show_owner=true&border_color=B947B1&border_radius=20)](https://github.com/Dendroculus/kurumi-discord-bot)
+[![PixelForge](https://github-dendroculus-readme-stats.vercel.app/api/pin/?username=Dendroculus&repo=PixelForge&theme=omni&show_owner=true&border_color=B947B1&border_radius=20)](https://github.com/Dendroculus/PixelForge) [![discord-image-upscaler-bot](https://github-dendroculus-readme-stats.vercel.app/api/pin/?username=Dendroculus&repo=discord-image-upscaler-bot&theme=omni&show_owner=true&border_color=B947B1&border_radius=20)](https://github.com/Dendroculus/discord-image-upscaler-bot)
 
 </div>
 
