@@ -55,7 +55,7 @@
 
   <div align="center">
     <b>Frontend</b><br/>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=react,vite,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind" />
   </div>
 
   <div align="center">

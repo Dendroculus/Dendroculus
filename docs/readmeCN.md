@@ -54,7 +54,7 @@
 
   <div align="center">
     <b>前端</b><br/>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=react,vite,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,react,vite,css,tailwind" />
   </div>
 
   <div align="center">
