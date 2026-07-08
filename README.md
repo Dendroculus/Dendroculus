@@ -8,9 +8,12 @@
 
 # 👋 I'm Hans Valerie
 
-<p>
+<p align="center">
   <picture>
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code,&size=24&pause=1000&color=5865F2&width=460&lines=Turning+ideas+into+automation;Debugging+feels+like+therapy;In+an+endless+pursuit+of+wisdom" alt="Typing SVG">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=5865F2&center=true&vCenter=true&width=620&lines=Building+full-stack+systems;Turning+ideas+into+real+products;Learning+by+shipping+projects"
+      alt="Typing SVG"
+    />
   </picture>
 </p>
 
@@ -32,10 +35,11 @@
 <picture><img src="https://wakatime.com/badge/user/23f3d64a-9d3a-46c1-b3d4-7fce4abee794.svg?style=flat&color=ff69b4"></picture>
 
 <br>
-💻 Building full-stack and AI-powered applications with Python, FastAPI, React, and JavaScript. <br>
-⚙️ Interested in backend systems, async workflows, and system design. <br>
-🧠 Currently developing PixelForge, an AI image processing web application. <br>
-🚀 Learning through hands-on projects, experimentation, and real-world problem solving.
+💻 Building full-stack and AI-powered apps with Python, FastAPI, React, Express, and PostgreSQL. <br>
+⚙️ Interested in backend systems, async workflows, realtime features, and system design. <br>
+🧠 Built PixelForge, an AI image processing platform with cloud jobs, signed uploads, and browser-side tools. <br>
+🏨 Also worked on Genius Society, a hotel reservation system with Express, PostgreSQL, Socket.IO, and admin analytics. <br>
+🚀 Learning through hands-on projects and real-world problem solving.
 
 </div>
 
@@ -60,7 +64,7 @@
 
   <div align="center">
     <b>Backend & Database</b><br/>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,postgres,mysql,sqlite" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,nodejs,express,postgres,mysql,sqlite,sequelize" />
   </div>
 
   <div align="center">
