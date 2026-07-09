@@ -1,9 +1,9 @@
 <p align="center">
- <img src="assets/badges/English.svg" alt="Switch to English"/>
-  <a href="docs/readmeCN.md"><img src="assets/badges/Chinese.svg" alt="切换到中文"/></a>
+  <img src="https://cdn.jsdelivr.net/gh/Dendroculus/Dendroculus@main/assets/badges/English.svg" alt="Switch to English"/>
+  <a href="./docs/readmeCN.md">
+    <img src="https://cdn.jsdelivr.net/gh/Dendroculus/Dendroculus@main/assets/badges/Chinese.svg" alt="切换到中文"/>
+  </a>
 </p>
-
-
 <div align="center">
 
 # 👋 I'm Hans Valerie
@@ -112,24 +112,24 @@
 ## 🌐 My Socials
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hans-valerie/">
-    <img src="./assets/socials/linkedin.svg" width="38"/>
-  </a>
   <a href="mailto:metsuwork@gmail.com">
-    <img src="./assets/socials/gmail.png" width="38"/>
+    <img src="https://cdn.jsdelivr.net/gh/Dendroculus/Dendroculus@main/assets/socials/gmail.png" alt="Gmail" width="38"/>
   </a>
-  <a href="https://www.instagram.com/hansv.va/">
-    <img src="./assets/socials/instagram.png" width="38"/>
+  <a href="https://discord.com/">
+    <img src="https://cdn.jsdelivr.net/gh/Dendroculus/Dendroculus@main/assets/socials/discord.svg" alt="Discord" width="38"/>
   </a>
-  <a href="https://t.me/HansValerie">
-    <img src="./assets/socials/telegram.png" width="38"/>
+  <a href="https://t.me/YOUR_USERNAME">
+    <img src="https://cdn.jsdelivr.net/gh/Dendroculus/Dendroculus@main/assets/socials/telegram.png" alt="Telegram" width="38"/>
   </a>
-  <a href="https://discord.com/users/955268891125375036">
-    <img src="./assets/socials/discord.svg" width="38"/>
+  <a href="https://www.instagram.com/YOUR_USERNAME">
+    <img src="https://cdn.jsdelivr.net/gh/Dendroculus/Dendroculus@main/assets/socials/instagram.png" alt="Instagram" width="38"/>
   </a>
-  <a href="https://leetcode.com/u/Dendroculus/">
-    <img src="./assets/socials/leetcode.svg" width="34" height="34"/>
+  <a href="https://www.linkedin.com/in/hans-valerie">
+    <img src="https://cdn.jsdelivr.net/gh/Dendroculus/Dendroculus@main/assets/socials/linkedin.svg" alt="LinkedIn" width="38"/>
   </a>
+  <a href="https://leetcode.com/Dendroculus/">
+  <img src="https://cdn.jsdelivr.net/gh/Dendroculus/Dendroculus@main/assets/socials/leetcode.svg" alt="LeetCode"  width="32"
+      height="32"/>  </a>
 </p>
 
 </div>
