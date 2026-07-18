@@ -69,7 +69,7 @@
 
   <div align="center">
     <b>Tools & Cloud</b><br/>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,azure,cloudflare" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,azure,cloudflare" />
   </div>
 </div>
 
@@ -79,9 +79,7 @@
 
 ## ✨ Featured Projects
 
-[![PixelForge](https://github-stats-extended-frontend-jade.vercel.app/api/pin/?username=Dendroculus&repo=PixelForge&theme=omni&show_owner=true&border_color=B947B1&border_radius=20)](https://github.com/Dendroculus/PixelForge)
-
-[![discord-image-upscaler-bot](https://github-stats-extended-frontend-jade.vercel.app/api/pin/?username=Dendroculus&repo=discord-image-upscaler-bot&theme=omni&show_owner=true&border_color=B947B1&border_radius=20)](https://github.com/Dendroculus/discord-image-upscaler-bot)
+[![PixelForge](https://github-stats-extended-frontend-jade.vercel.app/api/pin/?username=Dendroculus&repo=PixelForge&theme=omni&show_owner=true&border_color=B947B1&border_radius=20&description_lines_count=3)](https://github.com/Dendroculus/PixelForge) [![Semantix](https://github-stats-extended-frontend-jade.vercel.app/api/pin/?username=Dendroculus&repo=Semantix&theme=omni&show_owner=true&border_color=B947B1&border_radius=20&description_lines_count=3)](https://github.com/Dendroculus/Semantix)
 
 </div>
 
