@@ -79,8 +79,8 @@
 
 ## ✨ 精选项目
 
-[![PixelForge](https://github-stats-extended.vercel.app/api/pin/?username=Dendroculus&repo=PixelForge&theme=omni&show_owner=true&border_color=B947B1&border_radius=20)](https://github.com/Dendroculus/PixelForge)
-[![discord-image-upscaler-bot](https://github-stats-extended.vercel.app/api/pin/?username=Dendroculus&repo=discord-image-upscaler-bot&theme=omni&show_owner=true&border_color=B947B1&border_radius=20)](https://github.com/Dendroculus/discord-image-upscaler-bot)
+[![PixelForge](https://github-stats-extended-frontend-jade.vercel.app/api/pin/?username=Dendroculus&repo=PixelForge&theme=omni&show_owner=true&border_color=B947B1&border_radius=20)](https://github.com/Dendroculus/PixelForge)
+[![discord-image-upscaler-bot](https://github-stats-extended-frontend-jade.vercel.app/api/pin/?username=Dendroculus&repo=discord-image-upscaler-bot&theme=omni&show_owner=true&border_color=B947B1&border_radius=20)](https://github.com/Dendroculus/discord-image-upscaler-bot)
 
 </div>
 
@@ -92,11 +92,11 @@
   <picture>
     <source
       media="(max-width: 768px)"
-      srcset="https://github-stats-extended.vercel.app/api?username=Dendroculus&show_icons=true&theme=tokyonight&border_color=0284c7&border_radius=20&locale=cn"
+      srcset="https://github-stats-extended-frontend-jade.vercel.app/api?username=Dendroculus&show_icons=true&theme=tokyonight&border_color=0284c7&border_radius=20&locale=cn"
     />
     <img
       height="165"
-      src="https://github-stats-extended.vercel.app/api?username=Dendroculus&show_icons=true&theme=tokyonight&border_color=0284c7&border_radius=25&locale=cn"
+      src="https://github-stats-extended-frontend-jade.vercel.app/api?username=Dendroculus&show_icons=true&theme=tokyonight&border_color=0284c7&border_radius=25&locale=cn"
       alt="Hans Valerie 的 GitHub 统计"
     />
   </picture>
@@ -104,11 +104,11 @@
   <picture>
     <source
       media="(max-width: 768px)"
-      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Dendroculus&layout=compact&theme=tokyonight&langs_count=6&border_color=0284c7&border_radius=20&locale=cn"
+      srcset="https://github-stats-extended-frontend-jade.vercel.app/api/top-langs/?username=Dendroculus&layout=compact&theme=tokyonight&langs_count=6&border_color=0284c7&border_radius=20&locale=cn"
     />
     <img
       height="165"
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dendroculus&layout=compact&theme=tokyonight&langs_count=6&border_color=0284c7&border_radius=20&card_width=320&locale=cn"
+      src="https://github-stats-extended-frontend-jade.vercel.app/api/top-langs/?username=Dendroculus&layout=compact&theme=tokyonight&langs_count=6&border_color=0284c7&border_radius=20&card_width=320&locale=cn"
       alt="Hans Valerie 最常使用的编程语言"
     />
   </picture>

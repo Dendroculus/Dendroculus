@@ -79,8 +79,9 @@
 
 ## ✨ Featured Projects
 
-[![PixelForge](https://github-stats-extended.vercel.app/api/pin/?username=Dendroculus&repo=PixelForge&theme=omni&show_owner=true&border_color=B947B1&border_radius=20)](https://github.com/Dendroculus/PixelForge)
-[![discord-image-upscaler-bot](https://github-stats-extended.vercel.app/api/pin/?username=Dendroculus&repo=discord-image-upscaler-bot&theme=omni&show_owner=true&border_color=B947B1&border_radius=20)](https://github.com/Dendroculus/discord-image-upscaler-bot)
+[![PixelForge](https://github-stats-extended-frontend-jade.vercel.app/api/pin/?username=Dendroculus&repo=PixelForge&theme=omni&show_owner=true&border_color=B947B1&border_radius=20)](https://github.com/Dendroculus/PixelForge)
+
+[![discord-image-upscaler-bot](https://github-stats-extended-frontend-jade.vercel.app/api/pin/?username=Dendroculus&repo=discord-image-upscaler-bot&theme=omni&show_owner=true&border_color=B947B1&border_radius=20)](https://github.com/Dendroculus/discord-image-upscaler-bot)
 
 </div>
 
@@ -92,11 +93,11 @@
   <picture>
     <source
       media="(max-width: 768px)"
-      srcset="https://github-stats-extended.vercel.app/api?username=Dendroculus&show_icons=true&theme=tokyonight&border_color=0284c7&border_radius=20&locale=en"
+      srcset="https://github-stats-extended-frontend-jade.vercel.app/api?username=Dendroculus&show_icons=true&theme=tokyonight&border_color=0284c7&border_radius=20&locale=en"
     />
     <img
       height="165"
-      src="https://github-stats-extended.vercel.app/api?username=Dendroculus&show_icons=true&theme=tokyonight&border_color=0284c7&border_radius=25&locale=en"
+      src="https://github-stats-extended-frontend-jade.vercel.app/api?username=Dendroculus&show_icons=true&theme=tokyonight&border_color=0284c7&border_radius=25&locale=en"
       alt="Hans Valerie's GitHub stats"
     />
   </picture>
@@ -104,20 +105,20 @@
   <picture>
     <source
       media="(max-width: 768px)"
-      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Dendroculus&layout=compact&theme=tokyonight&langs_count=6&border_color=0284c7&border_radius=20&locale=en"
+      srcset="https://github-stats-extended-frontend-jade.vercel.app/api/top-langs/?username=Dendroculus&layout=compact&theme=tokyonight&langs_count=6&border_color=0284c7&border_radius=20&locale=en"
     />
     <img
       height="165"
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dendroculus&layout=compact&theme=tokyonight&langs_count=6&border_color=0284c7&border_radius=20&card_width=320&locale=en"
+      src="https://github-stats-extended-frontend-jade.vercel.app/api/top-langs/?username=Dendroculus&layout=compact&theme=tokyonight&langs_count=6&border_color=0284c7&border_radius=20&card_width=320&locale=en"
       alt="Hans Valerie's most-used languages"
     />
   </picture>
 
   <picture>
     <img
+      height="165"
       src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Dendroculus&theme=tokyonight&background=161b22&ring=60a5fa&fire=7dd3fc&currStreakLabel=60a5fa&sideNums=38bdf8&sideLabels=60a5fa&dates=94a3b8&border=3b82f6&stroke=0ea5e9&border_radius=20&locale=en"
       alt="Hans Valerie's GitHub streak stats"
-      height="165"
     />
   </picture>
 </p>
