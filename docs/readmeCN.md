@@ -35,12 +35,11 @@
 <picture><img src="https://wakatime.com/badge/user/23f3d64a-9d3a-46c1-b3d4-7fce4abee794.svg?style=flat&color=ff69b4"></picture>
 
 <br>
-💻 使用 Python、FastAPI、React、Express 和 PostgreSQL 构建全栈与 AI 驱动的应用。<br>
-⚙️ 对后端系统、异步工作流、实时功能和系统设计感兴趣。<br>
-🧠 构建了 PixelForge，一个具备云端任务、签名上传和浏览器端工具的 AI 图像处理平台。<br>
-🏨 也参与开发了 Genius Society，一个采用 Express、PostgreSQL、Socket.IO 和管理后台分析功能的酒店预订系统。<br>
-🚀 通过动手实践项目和解决真实问题持续学习。
-
+💻 使用 Python、FastAPI、React、TypeScript、PostgreSQL 和 Docker 构建全栈与 AI 系统。<br>
+⚙️ 专注于后端架构、可观测性、实时系统与系统设计。<br>
+🧠 正在构建可观测的语义缓存平台 Semantix。<br>
+🎨 构建了 AI 图像处理平台 PixelForge。<br>
+🚀 在持续构建、发布和改进真实项目的过程中学习成长。
 </div>
 
 </div>
@@ -54,7 +53,7 @@
 <div style="display: flex; flex-direction: column; gap: 2px;">
   <div align="center">
     <b>编程语言</b><br/>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,javascript,pandas" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,javascript,typescript" />
   </div>
 
   <div align="center">

@@ -35,12 +35,11 @@
 <picture><img src="https://wakatime.com/badge/user/23f3d64a-9d3a-46c1-b3d4-7fce4abee794.svg?style=flat&color=ff69b4"></picture>
 
 <br>
-💻 Building full-stack and AI-powered apps with Python, FastAPI, React, Express, and PostgreSQL. <br>
-⚙️ Interested in backend systems, async workflows, realtime features, and system design. <br>
-🧠 Built PixelForge, an AI image processing platform with cloud jobs, signed uploads, and browser-side tools. <br>
-🏨 Also worked on Genius Society, a hotel reservation system with Express, PostgreSQL, Socket.IO, and admin analytics. <br>
-🚀 Learning through hands-on projects and real-world problem solving.
-
+💻 Building full-stack and AI systems with Python, FastAPI, React, TypeScript, PostgreSQL, and Docker. <br>
+⚙️ Interested in backend architecture, observability, realtime systems, and system design. <br>
+🧠 Currently building Semantix, an observable semantic caching platform. <br>
+🎨 Built PixelForge, an AI-powered image processing platform. <br>
+🚀 Learning by building, shipping, and improving real-world projects.
 </div>
 
 </div>
@@ -54,7 +53,7 @@
 <div style="display: flex; flex-direction: column; gap: 2px;">
   <div align="center">
     <b>Languages</b><br/>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,javascript,pandas" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,javascript,typescript" />
   </div>
 
   <div align="center">
